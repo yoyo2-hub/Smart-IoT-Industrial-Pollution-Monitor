@@ -63,6 +63,6 @@ The system follows a three-tier architecture:
 
 ## 👥 Contributors
 
-- **[Chayma Dallel]**
-- **[Oumayma Kammoun]**
-- **[Abderrahmen Ayedi]** 
+- **Chayma Dallel**
+- **Oumayma Kammoun**
+- **Abderrahmen Ayedi** 
