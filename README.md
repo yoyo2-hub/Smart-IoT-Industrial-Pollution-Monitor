@@ -1,6 +1,5 @@
 # Smart-IoT-Industrial-Pollution-Monitor
 
-**Smart-Indus-Air-Predict**  
 *A Proactive IoT Ecosystem for Industrial Air Quality Monitoring & Prediction*
 
 ## 📖 Project Overview
